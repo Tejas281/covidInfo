@@ -61,7 +61,7 @@ const Navbar = () => {
               <li className="nav-item">
                 <Link
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  to="/Juicet"
+                  to="/juice"
                 >
                 
                   <i className="fas fa-wine-glass-alt text-lg leading-lg text-white opacity-75"></i>
