@@ -81,7 +81,7 @@ const Navbar = () => {
               <li className="nav-item">
                 <Link
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
-                  to="/about"
+                  to="/Moreinfo"
                 >
                   <i className="fas fa-book text-lg leading-lg text-white opacity-75"></i>
                   <span className="ml-2">More Info</span>

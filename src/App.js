@@ -1,6 +1,4 @@
-import axios from 'axios'
-import { Component } from 'react'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
 import Navbar from './components/Layout/Navbar'
 import Seaction from './components/Layout/Seaction'
 import About from './components/Pages/About'
@@ -9,6 +7,7 @@ import Juice from './components/Pages/Juice'
 import Oxygencylinder from './components/Pages/Oxygencylinder'
 import Medicines from './components/Pages/Medicines'
 import contectus from './components/Pages/Contectus'
+import Moreinfo from './components/Pages/Moreinfo'
 import Homescreen from './components/Layout/Users/Homescreen'
 
 const App = (props) => {
@@ -27,6 +26,7 @@ const App = (props) => {
             <Route path="/Oxygencylinder" component={Oxygencylinder} exact />
             <Route path="/About" component={About} exact />
             <Route path="/contectus" component={contectus} exact />
+            <Route path="/Moreinfo" component={Moreinfo} exact />
             
           </div>
         </section>
