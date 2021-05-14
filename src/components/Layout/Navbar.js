@@ -10,7 +10,7 @@ const Navbar = () => {
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
             <Link
               className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
-              to="/Contactus "
+              to="/Contectus"
             >
               <i className="fas fa-mobile-alt text-lg leading-lg animate-pulse text-white opacity-75 m-2"></i>
               Contact Us 

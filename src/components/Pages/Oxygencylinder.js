@@ -57,7 +57,7 @@ const Oxygencylinder = () => {
             <td className="px-6 py-4  text-sm text-gray-500">
               {product.id}
             </td>
-            <td className="px-6 py-4  text-sm text-gray-500">
+            <td className="px-6 py-4 uppercase text-sm text-gray-500">
               {product.name}
             </td>
             <td className="px-6 py-4  text-sm text-gray-500">

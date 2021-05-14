@@ -6,7 +6,7 @@ import Food from './components/Pages/Food'
 import Juice from './components/Pages/Juice'
 import Oxygencylinder from './components/Pages/Oxygencylinder'
 import Medicines from './components/Pages/Medicines'
-import contectus from './components/Pages/Contectus'
+import Contectus from './components/Pages/Contectus'
 import Moreinfo from './components/Pages/Moreinfo'
 import Homescreen from './components/Layout/Users/Homescreen'
 
@@ -25,7 +25,7 @@ const App = (props) => {
             <Route path="/Juice" component={Juice} exact />
             <Route path="/Oxygencylinder" component={Oxygencylinder} exact />
             <Route path="/About" component={About} exact />
-            <Route path="/contectus" component={contectus} exact />
+            <Route path="/Contectus" component={Contectus} exact />
             <Route path="/Moreinfo" component={Moreinfo} exact />
             
           </div>
