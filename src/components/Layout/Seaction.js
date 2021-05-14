@@ -10,7 +10,7 @@ const Seaction = () => {
           </h2>
 
           <p className="cursor-pointer animate-bounce hover:opacity-80 uppercase text-lg leading-relaxed m-4 text-gray-600">
-          Bed Info
+          Bed Info ( Covi-info for bhavnagar)
           </p>
         </div>
       </div>

@@ -22,7 +22,7 @@ const Moreinfo = () => {
           </h2>
 
           <p className="cursor-pointer animate-bounce hover:opacity-80 uppercase text-lg leading-relaxed m-4 text-gray-600">
-          Ask a doctor and take medicines
+          Ask a doctor and take medicines (Covi-info for bhavnagar)
           </p>
         </div>
       </div>

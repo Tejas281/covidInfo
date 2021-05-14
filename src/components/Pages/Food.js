@@ -21,7 +21,7 @@ const Food = () => {
           Bhavnagar Home Quarantine(only) Food Delivery Covid-19 
           </h2>
           <p className="cursor-pointer animate-bounce hover:opacity-80 uppercase text-lg leading-relaxed m-4 text-gray-600">
-          Food Info
+          Food Info ( Covi-info for bhavnagar ) 
           </p>
         </div>
       </div>

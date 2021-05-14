@@ -21,7 +21,7 @@ const Juice = () => {
           Bhavnagar Home Quarantine(only) Juice Delivery Covid-19 
           </h2>
           <p className="cursor-pointer animate-bounce hover:opacity-80 uppercase text-lg leading-relaxed m-4 text-gray-600">
-          Juice Info
+          Juice Info ( Covi-info for bhavnagar )
           </p>
         </div>
       </div>

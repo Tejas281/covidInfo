@@ -21,7 +21,7 @@ const Oxygencylinder = () => {
           Oxygen cylinder Covid-19 
           </h2>
           <p className="cursor-pointer animate-bounce hover:opacity-80 uppercase text-lg leading-relaxed m-4 text-gray-600">
-          Oxygen cylinder contact list
+          Oxygen cylinder contact list (Covi-info for bhavnagar)
           </p>
         </div>
       </div>
