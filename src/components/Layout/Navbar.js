@@ -8,12 +8,12 @@ const Navbar = () => {
       <nav className="bg-gray-800 relative flex flex-wrap items-center justify-between px-2 py-3 bg-blueGray-500 mb-3">
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
-            <Link
+          <Link
               className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
-              to="/Contectus"
+              to="/"
             >
-              <i className="fas fa-mobile-alt text-lg leading-lg animate-pulse text-white opacity-75 m-2"></i>
-              Contact Us 
+              <i className="fab fa-github text-lg leading-lg animate-pulse text-white opacity-75 m-2"></i>
+              COVI-INFO_BVN
             </Link>
             <button
               className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -78,7 +78,18 @@ const Navbar = () => {
                   <span className="ml-2">Oxygen cylinder</span>
                 </Link>
               </li>
+            
+           
               <li className="nav-item">
+                <Link
+                  className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
+                  to="/Contectus"
+                >
+                  <i className="fas fa-mobile-alt text-lg leading-lg text-white opacity-75"></i>
+                  <span className="ml-2">Contact Us</span>
+                </Link>
+              </li>
+                <li className="nav-item">
                 <Link
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                   to="/Moreinfo"
@@ -87,6 +98,7 @@ const Navbar = () => {
                   <span className="ml-2">More Info</span>
                 </Link>
               </li>
+             
             </ul>
             
           </div>

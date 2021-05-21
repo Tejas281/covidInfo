@@ -1,0 +1,55 @@
+{
+    "covidfood": [
+        {
+            "id": "1",
+            "name": "Ranjibhai Canada Group",
+            "address": "Dawn, Krishna Nagar, Bhavnagar, Gujarat 364001",
+            "booking_Lunch_time":"For Lunch Before 10AM",
+            "booking_dinner_time":"For Dinner Before 4PM",
+            "contactNumber":"9974146014",
+            "status":"Active"
+            
+        },
+        {
+            "id": "2",
+            "name": "Sihor Sampraday Audiya",
+            "address": "Ramvadi Bhavnagar, Gujarat 364001",
+            "booking_Lunch_time":"For Lunch Before 9AM",
+            "booking_dinner_time":"For Dinner Before 6PM",
+            "contactNumber":"0278-2420406/0278-2514406, 9879557075",
+            "status":"Active"
+            
+        },
+        {
+            "id": "3",
+            "name":"Food Delivered",
+            "address": "Bhavnagar, Gujarat 364001",
+            "booking_Lunch_time":"For Lunch Before 9AM",
+            "booking_dinner_time":"For Dinner Before 3PM",
+            "contactNumber":"8401284777, 8200762464",
+            "status":"Active Whatsapp only"
+            
+        },
+        {
+            "id": "4",
+            "name":"Rajubhai,Bhaveshbhai",
+            "address": "Bhavnagar, Gujarat 364001",
+            "booking_Lunch_time":"For Lunch Before 11AM",
+            "booking_dinner_time":"For Dinner Before 6PM",
+            "contactNumber":"9825505005, 9225217804",
+            "status":"Active"
+            
+        }
+        ,
+        {
+            "id": "5",
+            "name":"Amitbhai",
+            "address": "Bhavnagar, Gujarat 364001",
+            "booking_Lunch_time":"For Break Fast Before 10AM",
+            "booking_dinner_time":"For Dinner Before 9PM",
+            "contactNumber":"9825505005, 9225217804",
+            "status":"Active"
+            
+        }
+    ]
+}

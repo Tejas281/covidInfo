@@ -1,0 +1,57 @@
+{
+    "covidmedicins": [
+        {
+            "id": "1",
+            "name": "shyam Medical",
+            "address": "Bhavnagar, Gujarat 364001",
+            "medicine_name":"shyam medical",
+            "medicine_description":"Get Amphotericin B injection (Prescription Required)",
+            "contactNumber":"9737206275",
+            "status":"Active"
+            
+        },
+        {
+            "id": "2",
+            "name": "DR R K Sinha",
+            "address": "Bhavnagar, Gujarat 364001",
+            "medicine_name":"corporation helppline",
+            "medicine_description":"Prescription Required",
+            "contactNumber":"9727776890,2782430245 ",
+            "status":"Active"
+            
+        },
+        {
+            "id": "3",
+            "name": "Maharaj agency",
+            "address": "Bhavnagar, Gujarat 364001",
+            "medicine_name":"Maharaj agency",
+            "medicine_description":"Prescription Required",
+            "contactNumber":"0278 - 2436017",
+            "status":"Active"
+            
+        },
+
+        {
+            "id": "4",
+            "name": "chadramauli",
+            "address": "Bhavnagar, Gujarat 364001",
+            "medicine_name":"chadramauli",
+            "medicine_description":"Prescription Required",
+            "contactNumber":"0278-2515775,0278-3290345",
+            "status":"Active"
+            
+        },
+
+        {
+            "id": "5",
+            "name": "shipla",
+            "address": "Bhavnagar, Gujarat 364001",
+            "medicine_name":"shipla company",
+            "medicine_description":"Prescription Required",
+            "contactNumber":"8657311088",
+            "status":"24HR Active"
+            
+        }
+
+    ]
+}

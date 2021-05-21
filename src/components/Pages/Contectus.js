@@ -15,7 +15,7 @@ const Contectus = () => {
     </blockquote>
     <figcaption className="font-medium">
                         <div className="text-cyan-600">
-                        <button class="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
+                        <button className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
             <a href="https://chat.whatsapp.com/G7fBAabakTx1Z4JoHGf91R">CLICK AND JOIN WHATSAPP GROUP</a>
                 </button>
       </div>

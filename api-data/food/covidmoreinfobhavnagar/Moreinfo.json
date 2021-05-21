@@ -1,0 +1,87 @@
+{
+    "covidMoreinfo": [
+        {
+                "id": "1",
+                "medicine_name":"Tab.Azithro",
+                "medicine_description":"Prescription Required",
+                "mg":"500mg",
+                "morning":"No",
+                "afternoon":"No",
+                "night":"Yes",
+                "day":"5 days",
+                "status":"Active"
+        },
+        {
+            "id": "2",
+            "medicine_name":"Tab. Dolo",
+            "medicine_description":"Prescription Required",
+            "mg":"650mg",
+            "morning":"Yes",
+            "afternoon":"Yes",
+            "night":"Yes",
+            "day":"5 days",
+            "status":"Active"
+    },
+    { 
+        "id": "3",
+        "medicine_name":"Tab.Iver gold ",
+        "medicine_description":"Prescription Required",
+        "mg":"12mg",
+        "morning":"No",
+        "afternoon":"Yes",
+        "night":"No",
+        "day":"5 days",
+        "status":"Active"
+},
+{   
+    "id": "4",
+    "medicine_name":"Tab.L Dio",
+    "medicine_description":"Prescription Required",
+    "mg":"1 m",
+    "morning":"yes",
+    "afternoon":"No",
+    "night":"Yes",
+    "day":"5 days",
+    "status":"Active"
+},
+{    
+    "id": "5",
+    "medicine_name":"Tab.zincovit",
+    "medicine_description":"Prescription Required",
+    "mg":"mg",
+    "morning":"yes",
+    "afternoon":"No",
+    "night":"Yes",
+    "day":"7 days",
+    "status":"Active"
+},
+{
+    "id": "6",
+    "medicine_name":"Tab. Limcee chewable ",
+    "medicine_description":"Prescription Required",
+    "mg":"mg",
+    "morning":"Yes",
+    "afternoon":"No",
+    "night":"Yes",
+    "day":"7 days",
+    "status":"Active"
+},
+{
+            
+    "id": "7",
+    "medicine_name":"Syp tusq-LS",
+    "medicine_description":"Prescription Required",
+    "mg":"Liquid",
+    "morning":"Yes",
+    "afternoon":"Yes",
+    "night":"Yes",
+    "day":"7 days",
+    "status":"Active"
+},
+{
+    "info":"તમામ ભાઈઓ તથા મિત્રો ને જણાવવાનુ કે કોરોનાની મહામારી માં કોઇ ને પણ ઓકસીજન ને લગતી કોઇ પણ વસ્તુની જેમ કે ઓકસીજન સીલીંડર તથા ઓકસીજન માસ્ક તથા ફલો મીટર જેવી કોઇ પણ વસ્તુની જરૂર હોય તો અમારે ત્ત્યાથી કોઇ પણ નાત જાતના ભેદભાવ રાખયા વગર તદન ફી મા આપવામા આવશે.",
+    "info_description":"નોંધ :- ફકત ઓળખાણ આપવાની રેહશે. સંપકૅ :- હાજી ઈમરાન ભાઇ ઍ. કુરેશી (કોમરેડ). મો. ૯૮૨૪૨૦૬૬૦૦, 9824206600 હાજી વહાબ ભાઈ એ. આમદાની મો. ૯૮૭૯૫૨૯૭૮૬ તથા (કોમરેડ ગૃપ )",
+    "phone_number":" હાજી વહાબ ભાઈ એ. આમદાનીમો. ૯૮૭૯૫૨૯૭૮૬,9879529786 તથા (કોમરેડ ગૃપ )"
+}   
+    ]
+}

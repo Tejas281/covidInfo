@@ -1,0 +1,24 @@
+{
+    "covidjuice": [
+        {
+            "id": "1",
+            "name": "Free coconut water",
+            "fruitname":"coconut",
+            "time":"For juice Before 11AM ( Coconut water will be delivered to the needy patients at home in 3 hours. Only Bhavnagar)",
+            "description": "Patients in need should register their name, number and address by 11 am. ",
+            "contactNumber":"6357675555",
+            "status":"Active"
+            
+        },
+        {
+            "id": "2",
+            "name": "Bharat Vaghela",
+            "fruitname":"Citrus(મોસંબી) & Lemon(લિંબુ)",
+            "time":"9AM To 7PM (30-રુપિયા) મા 1Kg (Citrus(મોસંબી) & Lemon(લિંબુ))  ",
+            "description": "Bhadewani Street, Opposite Sitaram Frame, Kamanwali Daily, Bhavnagar,364001 ",
+            "contactNumber":"7878070578",
+            "status":"Active"
+            
+        }
+    ]
+}
